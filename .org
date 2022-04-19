@@ -1,0 +1,7 @@
+{
+org, gabes-wds
+owner, g1a1b1e {Gabe Macri}
+repo, gabes-wds.github.io
+wrkflf, .github[
+.yml]
+}
